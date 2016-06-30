@@ -1,0 +1,35 @@
+#shadow-sample2 {
+    display: inline-block;
+    width:  400px;
+    height: 800px;
+    margin: 16px;
+    padding: 16px;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+
+}
+
+#input h2 {
+    padding: 14px;
+    font-size: 16px;
+    font-weight: 400;
+}
+#input .inputs {
+    width: 80%;
+}
+#input .form-control-wrapper {
+    margin: 30px 0;
+}
+
+.1stform{
+    margin: auto;
+
+}
+#mainNav{
+    background-color: transparent;
+}
+#btn-submit{
+    background-color: white;
+}
